@@ -9,11 +9,11 @@ This project demonstrates a basic supervised learning approach using **Logistic 
 - Evaluates model accuracy and visualizes results with a confusion matrix
 
 ### 🛠 Dependencies
-scikit-learn
-numpy
-matplotlib
-seaborn
+- scikit-learn
+- numpy
+- matplotlib
+- seaborn
 
 ### 📌 Output
-Accuracy and classification report printed to console
-Confusion matrix displayed as a heatmap
+- Accuracy and classification report printed to console
+- Confusion matrix displayed as a heatmap

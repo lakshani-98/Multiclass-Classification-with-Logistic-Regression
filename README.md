@@ -15,28 +15,21 @@ This project demonstrates a basic supervised learning approach using **Logistic 
 git clone https://github.com/your-username/iris-logistic-regression.git
 cd iris-logistic-regression
 
-Install dependencies:
-
-bash
-Copy
-Edit
+2. Install dependencies:
+```bash
 pip install -r requirements.txt
-Run the script:
 
-bash
-Copy
-Edit
+3. Run the script:
+```bash
 python iris_logistic_regression.py
-🛠 Dependencies
+
+
+###🛠 Dependencies
 scikit-learn
-
 numpy
-
 matplotlib
-
 seaborn
 
-📌 Output
+###📌 Output
 Accuracy and classification report printed to console
-
 Confusion matrix displayed as a heatmap

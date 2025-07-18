@@ -8,12 +8,12 @@ This project demonstrates a basic supervised learning approach using **Logistic 
 - Trains a logistic regression model for multiclass classification
 - Evaluates model accuracy and visualizes results with a confusion matrix
 
-###🛠 Dependencies
+### 🛠 Dependencies
 scikit-learn
 numpy
 matplotlib
 seaborn
 
-###📌 Output
+### 📌 Output
 Accuracy and classification report printed to console
 Confusion matrix displayed as a heatmap

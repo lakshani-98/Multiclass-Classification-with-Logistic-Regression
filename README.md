@@ -8,22 +8,6 @@ This project demonstrates a basic supervised learning approach using **Logistic 
 - Trains a logistic regression model for multiclass classification
 - Evaluates model accuracy and visualizes results with a confusion matrix
 
-### ▶️ How to Run
-
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/iris-logistic-regression.git
-cd iris-logistic-regression
-
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-
-3. Run the script:
-```bash
-python iris_logistic_regression.py
-
-
 ###🛠 Dependencies
 scikit-learn
 numpy
